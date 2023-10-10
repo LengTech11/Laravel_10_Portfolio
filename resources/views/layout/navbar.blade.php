@@ -36,7 +36,8 @@
 
               <div class="ml-0 lg:ml-10 xl:ml-16 relative top-1">
                 <div class="g-ytsubscribe" data-channelid="UC_UMEcP_kF0z4E6KbxCpV1w" data-layout="default"
-                     data-count="default"></div>
+                     data-count="default">
+                </div>
               </div>
             </ul>
           </nav>
