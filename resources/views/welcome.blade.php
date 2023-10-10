@@ -110,5 +110,6 @@
 </header>
 <!-- ====== Navbar Section End -->
 
+        <script src="{{ asset('js/app.js') }}"></script>
     </body>
 </html>
