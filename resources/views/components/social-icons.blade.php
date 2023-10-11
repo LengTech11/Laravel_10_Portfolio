@@ -1,6 +1,6 @@
 <div class="mb-6 flex items-center">
     <a
-      href="javascript:void(0)"
+      href="https://www.facebook.com/profile.php?id=100009962675640&mibextid=LQQJ4d"
       class="text-white hover:bg-primary hover:border-primary mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-[#E5E5E5] hover:text-white sm:mr-4 lg:mr-3 xl:mr-4"
     >
       <svg
@@ -30,7 +30,7 @@
       </svg>
     </a>
     <a
-      href="javascript:void(0)"
+      href="https://www.youtube.com/channel/UCekMgZhkaG8R0u_eovgAUpQ"
       class="text-white hover:bg-primary hover:border-primary mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-[#E5E5E5] hover:text-white sm:mr-4 lg:mr-3 xl:mr-4"
     >
       <svg
